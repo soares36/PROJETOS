@@ -16,7 +16,7 @@ int main(){
     printf("Digite o código da carta [de 1 a]: \n");
     scanf("%s", &codigo);
 
-    printf("Digite sua cidade")
+    printf("Digite sua cidade");
 
 
 }
