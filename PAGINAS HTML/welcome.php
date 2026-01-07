@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+</head>
+<body>
+
+    Welcome <?php echo $_POST["name"]; ?> <br>
+    Your email adress is: <?php echo $_POST["email"]; ?>
+    
+</body>
+</html>
